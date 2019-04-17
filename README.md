@@ -25,7 +25,7 @@ HMS Vanguard,United Kingdom,45200,248.2,32.9,12 May 1946
 ```
 
 ## math.csv
-The third and largest dataset, with two date fields and one full of semicolon-delimited subfields ripe for the parsing
+The third and largest dataset, with two date fields and one full of semicolon-delimited subfields ripe for parsing
 ```csv
 name,surname,dob,dod,concepts
 Carl,Gauss,30 April 1777,23 February 1855,Gaussian elimination; Gauss–Jordan elimination; Gauss–Seidel method; Gauss's cyclotomic formula; Gauss's lemma; Gaussian binomial coefficient; Gauss transformation; Gauss–Bodenmiller theorem; Gauss–Bolyai–Lobachevsky space; Gauss–Bonnet theorem; Generalized Gauss–Bonnet theorem; Braid theory; Gauss–Codazzi equations; Gauss–Manin connection; Newton line; Gauss's area formula; Gauss's lemma; Gauss map; Gaussian curvature; Gauss circle problem; Gauss–Kuzmin–Wirsing constant; Gauss's constant; Gauss's digamma theorem; Gauss's generalization of Wilson's theorem; Gauss's lemma; Gauss map; Gaussian moat; Gauss class number problem; Gauss's multiplication formula
