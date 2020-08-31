@@ -3,8 +3,9 @@ A problem I've encountered is that when it comes to anything to do with software
 
 These .csv files have proven useful to me as sample datasets to use while learning the Unix filters `grep`, `sed`, and `awk`. I hope whoever finds them finds them just as valuable.
 
-#### [ Greek philosophers ](greeks.csv)
-Very small dataset featuring some of your favorite ancient philosophers
+## :brain: Greek philosophers ([csv](csv/greeks.csv), [json](json/greeks.json))
+Very small dataset featuring all your favorite Ancients:
+
 Name | City | Date of birth
 :--- | :--- | :---
 Socrates|Athens|470 BC
@@ -13,8 +14,9 @@ Aristotle|Stagira|384 BC
 Euclid|Alexandria|325 BC
 Pythagoras|Samos|570 BC
 
-#### [ Ships of the line ](ships.csv)
-A somewhat larger, more complicated dataset featuring some of history's worthiest battleships
+## :ship: Ships of the line ([csv](csv/ships.csv), [json](json/ships.json))
+A somewhat larger, more complicated dataset featuring some of history's battliest battleships:
+
 Name | Country | Displacement | Length | Beam | Commissioned date
 :--- | :--- | :--- | :--- | :--- | :---
 Yamato|Japan|65027|256|38.9|16 December 1941
@@ -24,7 +26,9 @@ HMS Dreadnought|United Kingdom|18120|160.6|25|2 December 1906
 USS Iowa|United States of America|46000|270.43|32.97|22 February 1943
 HMS Vanguard|United Kingdom|45200|248.2|32.9|12 May 1946
 
-#### [Starships](starships.csv)
+## :rocket: Starships ([csv](csv/starships.csv), [json](json/starships.json))
+Ships famous, to varying degrees, for plying the inky black. If these interest you, check out my [**Starships**](https://github.com/jasper-zanjani/starships) repo too.
+
 Name | Class | Registry | Crew
 :--- | :--- | :--- | :---
 USS Enterprise|Constitution|NCC-1701|203
@@ -34,8 +38,9 @@ USS Voyager|Intrepid|NCC-74656|141
 USS Enterprise|Galaxy|NCC-1701-D|6000
 USS Reliant|Miranda|NCC-1864|35
 
-#### [ Mathematicians](math.csv)
-The third and largest dataset, with two date fields and one full of semicolon-delimited subfields ripe for parsing
+## :neckbeard: Mathematicians ([csv](csv/math.csv) [json](json/math.json))
+An expanded assortment of smartypants from a different era.
+The third and largest dataset, with two date fields and one full of semicolon-delimited subfields ripe for parsing:
 
 Name | Surname | Date of birth | Date of death | Concepts
 :--- | :--- | :--- | :--- | :---
